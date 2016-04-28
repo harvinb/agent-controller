@@ -8,4 +8,4 @@ make all
 
 Running instructions:
 
-./hsa-agent-local <program to checkpoint>
+./hsa-agent-local /program-to-checkpoint
